@@ -1,2 +1,2 @@
 # UCSD_Bootcamp
-git 
+Repositoty created for the UCSD Bootcamp
